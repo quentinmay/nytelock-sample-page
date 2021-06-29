@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.container {
+  margin: 40px;
+}
+
+
+.title-question {
+  color:gold;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.title-styles {
+  font-weight:normal;
+  color:white;
+}
+
+
+.contactBtn {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  font-size: 18px;
+  
+  width: 200px;
+  height: 60px;
+  border-radius: 30px;
+  float:right;
+  cursor: pointer;
+  text-align: center;
+  vertical-align:middle;
+
+  background: linear-gradient(70deg, var(--c1, #ffefbc), var(--c2, gold) 0%, var(--c1, #ffefbc)) var(--x, 0)/ 200%;
+  transition: .5s;
+  
+}
+
+
+.contactBtn:hover {
+  --x: 100%; 
+}
+
+
+.graybox {
+  min-width: 600px;
+  background: linear-gradient(270deg, #2d2d2d, #696969);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+
+.logoBoxes {
+  display:inline-block;
+  text-align: center;
+}
+
+
+.logoBtn {
+
+  font-weight: bold;
+  color: white;
+  line-height: 140%;
+
+  cursor: pointer;
+  max-width: 170px;
+  width: 170px;
+  min-width: 170px;
+  max-height: 170px;
+  height: 170px;
+  min-height: 170px;
+  margin: 15px;
+  border-radius: 20px;
+
+  background-color: transparent;
+  border-style: solid;
+  border-width: thin;
+  border-color: gray;
+  transition: all 0.5s;
+  
+} 
+
+
+.mini-logo {
+  width: 40px;
+}
+
+
+.logoBtn:hover > .mini-logo{
+  filter:grayscale(100%) contrast(100%) invert(100%) drop-shadow(7px 7px 6px rgb(81, 113, 172));
+}
+
+
+.logoBtn:hover {
+  background-color: white;
+  color:black;
+}
+
+
+.logo-pictures {
+  display:contents;
+  justify-content: space-evenly;
+}
+
+
+.sample-picture {
+  float:right;
+
+   width:50%;
+   height:50%; 
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
