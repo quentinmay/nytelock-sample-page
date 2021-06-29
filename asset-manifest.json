@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nytelock-sample-page/static/css/main.60fa393e.chunk.css",
+    "main.js": "/nytelock-sample-page/static/js/main.0a512d15.chunk.js",
+    "main.js.map": "/nytelock-sample-page/static/js/main.0a512d15.chunk.js.map",
+    "runtime-main.js": "/nytelock-sample-page/static/js/runtime-main.d21d2e58.js",
+    "runtime-main.js.map": "/nytelock-sample-page/static/js/runtime-main.d21d2e58.js.map",
+    "static/js/2.87122db6.chunk.js": "/nytelock-sample-page/static/js/2.87122db6.chunk.js",
+    "static/js/2.87122db6.chunk.js.map": "/nytelock-sample-page/static/js/2.87122db6.chunk.js.map",
+    "static/js/3.b4441f1a.chunk.js": "/nytelock-sample-page/static/js/3.b4441f1a.chunk.js",
+    "static/js/3.b4441f1a.chunk.js.map": "/nytelock-sample-page/static/js/3.b4441f1a.chunk.js.map",
+    "index.html": "/nytelock-sample-page/index.html",
+    "static/css/main.60fa393e.chunk.css.map": "/nytelock-sample-page/static/css/main.60fa393e.chunk.css.map",
+    "static/js/2.87122db6.chunk.js.LICENSE.txt": "/nytelock-sample-page/static/js/2.87122db6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21d2e58.js",
+    "static/js/2.87122db6.chunk.js",
+    "static/css/main.60fa393e.chunk.css",
+    "static/js/main.0a512d15.chunk.js"
+  ]
+}
